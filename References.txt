@@ -1,0 +1,13 @@
+https://github.com/CMU-Perceptual-Computing-Lab/openpose  - sample code for openpose golf swing
+
+
+1. T. T. Kim, M. A. Zohdy and M. P. Barker, "Applying Pose Estimation to Predict Amateur Golf Swing Performance Using Edge Processing," in IEEE Access, vol. 8, pp. 143769-143776, 2020, doi: 10.1109/ACCESS.2020.3014186.
+
+2. Park, S., Yong Chang, J., Jeong, H., Lee, J. H., & Park, J. Y. (2017). Accurate and efficient 3d human pose estimation algorithm using single depth images for pose analysis in golf. In Proceedings of the IEEE conference on computer vision and pattern recognition workshops (pp. 49-57).
+
+3. Kim, T. T., Zohdy, M. A., & Barker, M. P. (2020). Applying pose estimation to predict amateur golf swing performance using edge processing. IEEE Access, 8, 143769-143776.  
+
+4. Liao, C. C., Hwang, D. H., & Koike, H. (2021). How Can I Swing Like Pro?: Golf Swing Analysis Tool for Self Training. In SIGGRAPH Asia 2021 Posters (pp. 1-2).
+
+5. Kim, Theodore & Zohdy, Mohamed & Barker, Michael. (2020). Applying Pose Estimation to Predict Amateur Golf Swing Performance using Edge Processing (February 2020). IEEE Access. PP. 1-1. 10.1109/ACCESS.2020.3014186.
+ 
