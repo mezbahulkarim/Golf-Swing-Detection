@@ -10,4 +10,5 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose  - sample code for open
 4. Liao, C. C., Hwang, D. H., & Koike, H. (2021). How Can I Swing Like Pro?: Golf Swing Analysis Tool for Self Training. In SIGGRAPH Asia 2021 Posters (pp. 1-2).
 
 5. Kim, Theodore & Zohdy, Mohamed & Barker, Michael. (2020). Applying Pose Estimation to Predict Amateur Golf Swing Performance using Edge Processing (February 2020). IEEE Access. PP. 1-1. 10.1109/ACCESS.2020.3014186.
- 
+
+6. Gaoyue Sun. 2021. Golf Swing Correction Based on Deep Learning Body Posture Recognition. In <i>2021 3rd International Conference on Pattern Recognition and Intelligent Systems</i> (<i>PRIS 2021</i>). Association for Computing Machinery, New York, NY, USA, 72–76. DOI:https://doi.org/10.1145/3480651.3480713
