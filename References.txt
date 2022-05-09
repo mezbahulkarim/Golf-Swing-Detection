@@ -1,4 +1,4 @@
-https://github.com/CMU-Perceptual-Computing-Lab/openpose  - possible sample code for openpose golf swing
+https://github.com/CMU-Perceptual-Computing-Lab/openpose ->OpenPose
 
 //small article explaining 4.1
 https://towardsdatascience.com/cvpr-2017-openpose-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields-f2ce18d720e8
@@ -16,3 +16,5 @@ https://towardsdatascience.com/cvpr-2017-openpose-realtime-multi-person-2d-pose-
 5. Gisela Miranda Difini, Marcio Garcia Martins, and Jorge Luis Victória Barbosa. 2021. Human Pose Estimation for Training Assistance: a Systematic Literature Review. In <i>Proceedings of the Brazilian Symposium on Multimedia and the Web</i> (<i>WebMedia '21</i>). Association for Computing Machinery, New York, NY, USA, 189–196. DOI:https://doi.org/10.1145/3470482.3479633
 
 6. Weixian, L., Xiaoping, L., Mingli, D., &amp; Lianqing, Z. (2017). Golf video tracking based on recognition with hog and spatial–temporal vector. International Journal of Advanced Robotic Systems, 14(3), 172988141770454. https://doi.org/10.1177/1729881417704544 
+
+7. Y. -C. Li, C. -T. Chang, C. -C. Cheng and Y. -L. Huang, "Baseball Swing Pose Estimation Using OpenPose," 2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI), 2021, pp. 6-9, doi: 10.1109/RAAI52226.2021.9507807.
