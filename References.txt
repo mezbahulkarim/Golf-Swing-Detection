@@ -18,3 +18,8 @@ https://towardsdatascience.com/cvpr-2017-openpose-realtime-multi-person-2d-pose-
 6. Weixian, L., Xiaoping, L., Mingli, D., &amp; Lianqing, Z. (2017). Golf video tracking based on recognition with hog and spatial–temporal vector. International Journal of Advanced Robotic Systems, 14(3), 172988141770454. https://doi.org/10.1177/1729881417704544 
 
 7. Y. -C. Li, C. -T. Chang, C. -C. Cheng and Y. -L. Huang, "Baseball Swing Pose Estimation Using OpenPose," 2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI), 2021, pp. 6-9, doi: 10.1109/RAAI52226.2021.9507807.
+
+8. Sypetkowski, M., Sarwas, G., & Trzcinski, T. (2019). Synthetic Image Translation for Football Players Pose Estimation. J. Univers. Comput. Sci., 25(6), 683-700.
+
+9. de Sousa Pinheiro, G., Jin, X., Da Costa, V. T., & Lames, M. (2022). Body Pose Estimation Integrated With Notational Analysis: A New Approach to Analyze Penalty Kicks Strategy in Elite Football. Frontiers in sports and active living, 4.
+
